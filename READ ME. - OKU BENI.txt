@@ -1,0 +1,19 @@
+colorama==0.3.9
+requests==2.26.0
+beautifulsoup4==4.10.0
+discord.py==2.1.0
+python_telegram_bot==20.0
+
+Turkish
+
+Yukarda gördüğünüz tüm modülleri indirin.
+Daha sonrasında discord-enough dosyasını not defteri ile açın ve tokeninizi düzenleyin.
+Daha sonrasında start.bat dosyasını çalıştırarak botunuzu aktif edebilirsiniz.
+Hata alan ya da modüllerini yükleyemeyen "updates" çalıştırabilir.
+
+English
+
+Download all the modules you see above.
+Then, open the discord-enough file with notepad and edit your token.
+Start later.you can activate your bot by running the bat file.
+It can run "updates" that receive errors or cannot load modules.
